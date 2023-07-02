@@ -15,7 +15,9 @@
       "HasCode": false,
       "CodePath": null,
       "PackageReferences": [],
-      "EditorReferences": [],
+      "EditorReferences": [
+        "halfpeeps.liminal_experience#19552"
+      ],
       "Metadata": {}
     }
   }
