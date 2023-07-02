@@ -1,0 +1,27 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Runoff",
+      "Type": "map",
+      "Org": "halfpeeps",
+      "Ident": "runoff_v1",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "runoff.vmap",
+        "Summary": "",
+        "Description": "",
+        "Public": false
+      }
+    }
+  }
+}

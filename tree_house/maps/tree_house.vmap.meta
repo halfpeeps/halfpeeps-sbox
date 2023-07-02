@@ -1,0 +1,39 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": null,
+      "Type": null,
+      "Org": null,
+      "Ident": null,
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.grit_box#11345",
+        "quack.devgen01b#11249",
+        "quack.devgen01#11247",
+        "andiq.wood045#12697",
+        "facepunch.floor_wooden_deck_a#18687",
+        "duccsoft.synthetic_wood#16018",
+        "duccsoft.wood_planks#13675",
+        "facepunch.tv#18770",
+        "randkassets.spooky_table#12597",
+        "luke.office_flowers_1#12933",
+        "facepunch.floor_grass_dirt_weed_blend_a#18756",
+        "baik.doublet_pavement#12022",
+        "facepunch.pavement_tile_01#17345",
+        "facepunch.floor_riverbed_dirt_blend_a#18673",
+        "mufamoof.dev_glass#12655",
+        "eurorp.door01_right_01#12553"
+      ],
+      "Metadata": {}
+    }
+  }
+}

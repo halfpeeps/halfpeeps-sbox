@@ -1,0 +1,35 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": null,
+      "Type": null,
+      "Org": null,
+      "Ident": null,
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "playback.mediaplayer#18808",
+        "facepunch.metal_painted_a_hs#18402",
+        "eurorp.black_shiny#15587",
+        "facepunch.metal_painted_black_a_hs#18371",
+        "goose.floor_splotch01_black#19423",
+        "andiq.tiles045#12699",
+        "gkaf.metal_panel_trim#8531",
+        "way.grey_carpet#10631",
+        "facepunch.studio_light_projector#19238",
+        "tiowevolve.spot_light#13613",
+        "eurorp.concrete_02#15580",
+        "saandy.piano_stool#19941"
+      ],
+      "Metadata": {}
+    }
+  }
+}

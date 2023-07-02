@@ -1,0 +1,54 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "pool",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "pool",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "goose.g_tilesdamaged8u#9632",
+        "exorealms.287cdc3c7a08c0a2#16296",
+        "facepunch.floor_tile_blend_02#17367",
+        "gkaf.fence_tile#9508",
+        "andiq.tiles078#12705",
+        "facepunch.floor_riverbed_dirt_blend_a#18673",
+        "andiq.tiles020#12710",
+        "duccsoft.synthetic_wood#16018",
+        "saandy.glass02_hs#17240",
+        "facepunch.wall_brick_old#18728",
+        "facepunch.floor_grass_dirt_weed_blend_a#18756",
+        "facepunch.wall_brick_blend_older_dirt#18730",
+        "quack.devgen01#11247",
+        "facepunch.glass_a_hs#18365",
+        "facepunch.con_pol_blend_01#17393",
+        "gkaf.metal_trim_hs#8724",
+        "gkaf.granite_wall#8535",
+        "facepunch.metal_01a#9574",
+        "facepunch.binbag_pile_a1#17186",
+        "facepunch.wet_floor_sign#17892",
+        "facepunch.wheely_bin#18778",
+        "facepunch.hydrant_marker#18264",
+        "facepunch.traffic_cone#18878",
+        "simonkvien.cargo01_open#11400",
+        "quack.devgen01b#11249",
+        "facepunch.concrete_glossy_used#18630",
+        "additionproject.plasticchair_01#12788",
+        "facepunch.grit_box#11345",
+        "pilgrim.metal_panels#10359"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/pool.vmap"
+      }
+    }
+  }
+}

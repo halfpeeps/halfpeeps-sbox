@@ -1,0 +1,17 @@
+{
+  "Title": "Garden Centre",
+  "Type": "content",
+  "Org": "halfpeeps",
+  "Ident": "garden_centre",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": false,
+  "CodePath": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {}
+}

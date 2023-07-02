@@ -1,0 +1,17 @@
+{
+  "Title": "Swimming Pool",
+  "Type": "content",
+  "Org": "halfpeeps",
+  "Ident": "swimming_pool",
+  "Tags": "sandbox",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": false,
+  "CodePath": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {}
+}

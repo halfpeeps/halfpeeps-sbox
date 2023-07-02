@@ -1,0 +1,27 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/water.shader_c"
+
+	//---- Water ----
+	F_TWO_TONE_FOG 1
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+	g_fFogToneDistance "250.000"
+	g_vWaterFogColor "[0.768628 0.772549 0.768628 0.000000]"
+	g_vWaterFogColor2 "[0.552941 0.623529 0.647059 0.000000]"
+	g_vWaterFogDistanceFalloff "[250.000 0.200]"
+
+	//---- Material ----
+	TextureColor "materials/default/default_color.tga"
+	TextureTranslucency "materials/default/default_trans.tga"
+
+	//---- Water ----
+	g_fPhase "7.920"
+	g_fScale "1.701"
+	g_fSpeed "1.028"
+	g_fSurfaceRoughness "1.000"
+	g_fWeight "1.391"
+}
