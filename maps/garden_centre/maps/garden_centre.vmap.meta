@@ -1,11 +1,12 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": false,
     "ProjectConfig": {
-      "Title": null,
-      "Type": null,
-      "Org": null,
-      "Ident": null,
+      "Title": "garden_centre",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "garden_centre",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -33,9 +34,14 @@
         "creation.painted_concrete_diff_2k#19595",
         "drakefruit.glass_blocks_001#20452",
         "drakefruit.glass_blocks_001a#20453",
-        "facepunch.glass_dotted_a#19950"
+        "facepunch.glass_dotted_a#19950",
+        "tfassets.door_slide_large_dynamic#20767",
+        "creation.autodoor#19548",
+        "tfassets.door_slide_large_door#20766"
       ],
-      "Metadata": {}
+      "Metadata": {
+        "SingleAssetSource": "maps/garden_centre.vmap"
+      }
     }
   }
 }
