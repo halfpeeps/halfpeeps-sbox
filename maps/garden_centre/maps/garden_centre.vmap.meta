@@ -1,11 +1,11 @@
 {
   "publish": {
     "Allowed": true,
-    "Enabled": false,
+    "Enabled": true,
     "ProjectConfig": {
       "Title": "garden_centre",
       "Type": "map",
-      "Org": "local",
+      "Org": "halfpeeps",
       "Ident": "garden_centre",
       "Tags": null,
       "Schema": 0,
