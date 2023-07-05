@@ -40,7 +40,9 @@
         "tfassets.door_slide_large_door#20766",
         "creation.rollerdoorsmall2#19545",
         "facepunch.glass_a#19946",
-        "facepunch.corrugated_wall_bare_a#18636"
+        "facepunch.corrugated_wall_bare_a#18636",
+        "facepunch.concrete_glossy_used#18630",
+        "tfassets.concretewall001d#20831"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/garden_centre.vmap"
