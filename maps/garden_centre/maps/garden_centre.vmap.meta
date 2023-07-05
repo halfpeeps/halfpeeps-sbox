@@ -37,7 +37,8 @@
         "facepunch.glass_dotted_a#19950",
         "tfassets.door_slide_large_dynamic#20767",
         "creation.autodoor#19548",
-        "tfassets.door_slide_large_door#20766"
+        "tfassets.door_slide_large_door#20766",
+        "creation.rollerdoorsmall2#19545"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/garden_centre.vmap"
