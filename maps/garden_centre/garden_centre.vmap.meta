@@ -1,11 +1,12 @@
 {
   "publish": {
-    "Enabled": false,
+    "Allowed": true,
+    "Enabled": true,
     "ProjectConfig": {
-      "Title": null,
-      "Type": null,
-      "Org": null,
-      "Ident": null,
+      "Title": "garden_centre",
+      "Type": "map",
+      "Org": "halfpeeps",
+      "Ident": "garden_centre",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -32,7 +33,9 @@
         "facepunch.floor_tile_blend_01#17344",
         "creation.painted_concrete_diff_2k#19595"
       ],
-      "Metadata": {}
+      "Metadata": {
+        "SingleAssetSource": "garden_centre.vmap"
+      }
     }
   }
 }
