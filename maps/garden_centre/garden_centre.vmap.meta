@@ -3,10 +3,10 @@
     "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "garden_centre",
+      "Title": "Empty Warehouse Sandbox",
       "Type": "map",
       "Org": "halfpeeps",
-      "Ident": "garden_centre",
+      "Ident": "sandbox_warehouse",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -31,10 +31,27 @@
         "gkaf.plastic_siding#9505",
         "creation.plastic005_2k#19314",
         "facepunch.floor_tile_blend_01#17344",
-        "creation.painted_concrete_diff_2k#19595"
+        "creation.painted_concrete_diff_2k#19595",
+        "drakefruit.glass_blocks_001#20452",
+        "drakefruit.glass_blocks_001a#20453",
+        "facepunch.glass_dotted_a#19950",
+        "tfassets.door_slide_large_dynamic#20767",
+        "creation.autodoor#19548",
+        "tfassets.door_slide_large_door#20766",
+        "creation.rollerdoorsmall2#19545",
+        "facepunch.glass_a#19946",
+        "facepunch.corrugated_wall_bare_a#18636",
+        "facepunch.concrete_glossy_used#18630",
+        "tfassets.concretewall001d#20831",
+        "eurorp.white_rough#15616",
+        "facepunch.fire_exit_light#19198",
+        "facepunch.metal_painted_a_hs#18402"
       ],
       "Metadata": {
-        "SingleAssetSource": "garden_centre.vmap"
+        "SingleAssetSource": "garden_centre.vmap",
+        "GameSupport": [
+          "facepunch.sandbox"
+        ]
       }
     }
   }

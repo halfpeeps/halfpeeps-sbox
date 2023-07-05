@@ -3,10 +3,10 @@
     "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "garden_centre",
+      "Title": "Empty Warehouse Sandbox",
       "Type": "map",
       "Org": "halfpeeps",
-      "Ident": "garden_centre",
+      "Ident": "sandbox_warehouse",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -44,10 +44,14 @@
         "facepunch.concrete_glossy_used#18630",
         "tfassets.concretewall001d#20831",
         "eurorp.white_rough#15616",
-        "facepunch.fire_exit_light#19198"
+        "facepunch.fire_exit_light#19198",
+        "facepunch.metal_painted_a_hs#18402"
       ],
       "Metadata": {
-        "SingleAssetSource": "maps/garden_centre.vmap"
+        "SingleAssetSource": "maps/garden_centre.vmap",
+        "GameSupport": [
+          "facepunch.sandbox"
+        ]
       }
     }
   }

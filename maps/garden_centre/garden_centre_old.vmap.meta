@@ -1,0 +1,41 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "garden_centre",
+      "Type": "map",
+      "Org": "halfpeeps",
+      "Ident": "garden_centre",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "halfpeeps.liminal_experience#19552",
+        "facepunch.concrete_glossy#18629",
+        "facepunch.conc_pol_pnt_01#18753",
+        "facepunch.metal_painted_black_a_hs#18371",
+        "goose.g_concstreak#9728",
+        "tfassets.concretewall003#20834",
+        "facepunch.concrete_glossy_used_blend#18631",
+        "steeldevgroup.corrugated_steel#13558",
+        "facepunch.wired_glass_b#19957",
+        "gkaf.granite_wall#8535",
+        "tfassets.wood_beam03#20906",
+        "gkaf.plastic_siding#9505",
+        "creation.plastic005_2k#19314",
+        "facepunch.floor_tile_blend_01#17344",
+        "creation.painted_concrete_diff_2k#19595"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "garden_centre.vmap"
+      }
+    }
+  }
+}
