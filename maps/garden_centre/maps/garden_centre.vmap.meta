@@ -42,7 +42,9 @@
         "facepunch.glass_a#19946",
         "facepunch.corrugated_wall_bare_a#18636",
         "facepunch.concrete_glossy_used#18630",
-        "tfassets.concretewall001d#20831"
+        "tfassets.concretewall001d#20831",
+        "eurorp.white_rough#15616",
+        "facepunch.fire_exit_light#19198"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/garden_centre.vmap"
