@@ -1,0 +1,33 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "liminal_gasstation",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "liminal_gasstation",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "kote.vaz_2107#1186",
+        "facepunch.metal_painted_red_b_hs#18382",
+        "facepunch.metal_painted_navy_a_hs#18378",
+        "facepunch.metal_01a#9574",
+        "facepunch.metal_painted_b_hs#18370",
+        "andiq.metalgrate011_2k#12764",
+        "goose.floor_splotch01_white#19424"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/liminal_gasstation.vmap"
+      }
+    }
+  }
+}
