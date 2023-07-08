@@ -114,7 +114,13 @@
         "mapperskai.snow#10745",
         "rustycar.oldcar#15938",
         "eurorp.concrete_01#15579",
-        "tfassets.concretewall002#20836"
+        "tfassets.concretewall002#20836",
+        "facepunch.fire_exit_light#19198",
+        "taoliguoshu.lamppost03a_on#7114",
+        "facepunch.street_cabinet_small#19237",
+        "apetavern.streetlight#22567",
+        "facepunch.metal_brushed#18749",
+        "saandy.paper_dispenser#17246"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/liminal_gasstation.vmap"
