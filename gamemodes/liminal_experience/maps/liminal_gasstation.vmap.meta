@@ -120,7 +120,14 @@
         "facepunch.street_cabinet_small#19237",
         "apetavern.streetlight#22567",
         "facepunch.metal_brushed#18749",
-        "saandy.paper_dispenser#17246"
+        "saandy.paper_dispenser#17246",
+        "baik.oildrum#19450",
+        "facepunch.telegraph_pole#18769",
+        "baik.roadsign_stop#19440",
+        "eurorp.traffic_pole_01#15517",
+        "neptunux.pallettruck#18569",
+        "facepunch.hydrant_marker#19217",
+        "facepunch.traffic_cone#18878"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/liminal_gasstation.vmap"
