@@ -127,7 +127,8 @@
         "eurorp.traffic_pole_01#15517",
         "neptunux.pallettruck#18569",
         "facepunch.hydrant_marker#19217",
-        "facepunch.traffic_cone#18878"
+        "facepunch.traffic_cone#18878",
+        "modelworkstuff.traffic_cone_01#12854"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/liminal_gasstation.vmap"
