@@ -109,7 +109,10 @@
         "rust.chainlink_fence_1x3#21960",
         "rust.chainlink_fence_gate#21955",
         "rust.chainlink_fence_3x3#22385",
-        "rust.chainlink_fence_3x9#22468"
+        "rust.chainlink_fence_3x9#22468",
+        "simonkvien.snow_dirt_blend#10958",
+        "mapperskai.snow#10745",
+        "rustycar.oldcar#15938"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/liminal_gasstation.vmap"

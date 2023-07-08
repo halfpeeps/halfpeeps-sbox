@@ -1,0 +1,42 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/complex.shader"
+
+	//---- PBR ----
+	F_SPECULAR 1
+
+	//---- Ambient Occlusion ----
+	g_flAmbientOcclusionDirectDiffuse "0.044"
+	g_flAmbientOcclusionDirectSpecular "0.500"
+	TextureAmbientOcclusion "materials/import/snow_fluffy/Snow005_2K_Displacement.png"
+
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	TextureColor "materials/import/snow_fluffy/Snow005_2K_Color.png"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Metalness ----
+	g_flMetalness "0.063"
+
+	//---- Normal ----
+	TextureNormal "materials/import/snow_fluffy/Snow005_2K_NormalGL.png"
+
+	//---- Roughness ----
+	g_flRoughnessScaleFactor "1.778"
+	TextureRoughness "materials/import/snow_fluffy/Snow005_2K_Roughness.png"
+
+	//---- Texture Coordinates ----
+	g_nScaleTexCoordUByModelScaleAxis "0"
+	g_nScaleTexCoordVByModelScaleAxis "0"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[0.300 0.300]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+}
