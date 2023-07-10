@@ -19,7 +19,9 @@
       "EditorReferences": [
         "facepunch.carpet_c_blend#18625",
         "facepunch.metal_brushed#18749",
-        "eurorp.chrome_04#15548"
+        "eurorp.chrome_04#15548",
+        "creation.plastic005_2k#23499",
+        "facepunch.metal_painted_black_a_hs#18371"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/corridor_prefabs.vmap"
