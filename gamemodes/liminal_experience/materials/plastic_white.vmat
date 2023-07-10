@@ -5,7 +5,7 @@ Layer0
 	shader "shaders/complex.shader"
 
 	//---- Ambient Occlusion ----
-	g_flAmbientOcclusionDirectDiffuse "0.177"
+	g_flAmbientOcclusionDirectDiffuse "0.440"
 	g_flAmbientOcclusionDirectSpecular "0.129"
 	TextureAmbientOcclusion "materials/import/plastic/Plastic010_2K_Displacement.png"
 
@@ -21,13 +21,13 @@ Layer0
 	g_bFogEnabled "1"
 
 	//---- Metalness ----
-	g_flMetalness "0.000"
+	g_flMetalness "0.079"
 
 	//---- Normal ----
 	TextureNormal "materials/import/plastic/Plastic010_2K_NormalGL.png"
 
 	//---- Roughness ----
-	g_flRoughnessScaleFactor "0.433"
+	g_flRoughnessScaleFactor "0.357"
 	TextureRoughness "materials/import/plastic/Plastic010_2K_Roughness.png"
 
 	//---- Texture Coordinates ----
