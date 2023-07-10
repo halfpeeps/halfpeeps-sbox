@@ -1,0 +1,29 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "corridor_prefabs",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "corridor_prefabs",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.carpet_c_blend#18625",
+        "facepunch.metal_brushed#18749",
+        "eurorp.chrome_04#15548"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/corridor_prefabs.vmap"
+      }
+    }
+  }
+}
