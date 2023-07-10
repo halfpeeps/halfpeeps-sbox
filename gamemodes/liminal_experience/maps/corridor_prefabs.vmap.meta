@@ -21,7 +21,11 @@
         "facepunch.metal_brushed#18749",
         "eurorp.chrome_04#15548",
         "creation.plastic005_2k#23499",
-        "facepunch.metal_painted_black_a_hs#18371"
+        "facepunch.metal_painted_black_a_hs#18371",
+        "quack.devgen01#11247",
+        "facepunch.plastic_glossy_a_hs#18386",
+        "tfassets.doorframe002a#23354",
+        "eurorp.door01_right#9937"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/corridor_prefabs.vmap"
