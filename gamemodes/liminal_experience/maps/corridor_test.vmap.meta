@@ -1,0 +1,34 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "corridor_test",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "corridor_test",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.metal_brushed#18749",
+        "eurorp.chrome_04#15548",
+        "facepunch.plastic_glossy_a_hs#18386",
+        "facepunch.carpet_c_blend#18625",
+        "creation.plastic005_2k#23499",
+        "facepunch.metal_painted_black_a_hs#18371",
+        "eurorp.door01_right#9937",
+        "quack.devgen01#11247"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/corridor_test.vmap"
+      }
+    }
+  }
+}
