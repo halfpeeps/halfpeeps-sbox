@@ -128,7 +128,12 @@
         "neptunux.pallettruck#18569",
         "facepunch.hydrant_marker#19217",
         "facepunch.traffic_cone#18878",
-        "modelworkstuff.traffic_cone_01#12854"
+        "modelworkstuff.traffic_cone_01#12854",
+        "gkaf.metal_trim_hs#8724",
+        "facepunch.plastic_glossy_a_hs#18386",
+        "facepunch.carpet_c_blend#18625",
+        "eurorp.door01_right#9937",
+        "creation.plastic005_2k#23499"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/liminal_gasstation.vmap"
