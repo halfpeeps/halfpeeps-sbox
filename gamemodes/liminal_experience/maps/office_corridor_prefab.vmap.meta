@@ -1,0 +1,59 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "office_corridor_prefab",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "office_corridor_prefab",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "eurorp.door01_right#9937",
+        "creation.plastic005_2k#23499",
+        "facepunch.carpet_c_blend#18625",
+        "gkaf.plaster_wall#8533",
+        "frogpond.radio2#12959",
+        "facepunch.plastic_glossy_a_hs#18386",
+        "gkaf.metal_trim_hs#8724",
+        "facepunch.metal_painted_red_a_hs#18381",
+        "modelworkstuff.traffic_cone_01#12854",
+        "facepunch.metal_painted_black_a_hs#18371",
+        "luke.office_plant#22956",
+        "luke.office_flowers_2#22958",
+        "frogpond.wallclock#12971",
+        "polyrats.untitled_3#13911",
+        "facepunch.office_chair#18219",
+        "luke.office_pc#22880",
+        "jodiscontent.towel_white#24272",
+        "luke.minimal_shelves#19884",
+        "facepunch.card_box_open#15229",
+        "polyhaven.cardboard_box_01b#19603",
+        "polyhaven.cardboard_box_01#19574",
+        "penguins.hanging_picture#12034",
+        "additionproject.picture_frame1#12740",
+        "facepunch.tv#18770",
+        "additionproject.pictureframe_02#12796",
+        "svin.vending_machine#24508",
+        "facepunch.fireextinguisher#18196",
+        "polyrats.fireouter#13837",
+        "tfassets.fire_extinguisher_cabinet01#20629",
+        "luke.metal_bigcabinet#22916",
+        "mufamoof.plugsocket#20482",
+        "frogpond.fridge#12954",
+        "eurorp.kitchen#9929"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/office_corridor_prefab.vmap"
+      }
+    }
+  }
+}
