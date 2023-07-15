@@ -1,11 +1,12 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": false,
     "ProjectConfig": {
-      "Title": null,
-      "Type": null,
-      "Org": null,
-      "Ident": null,
+      "Title": "karaoke",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "karaoke",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -27,9 +28,13 @@
         "facepunch.studio_light_projector#19238",
         "tiowevolve.spot_light#13613",
         "eurorp.concrete_02#15580",
-        "saandy.piano_stool#19941"
+        "saandy.piano_stool#19941",
+        "tiowevolve.spot_light#24516",
+        "playback.mediaplayer#24152"
       ],
-      "Metadata": {}
+      "Metadata": {
+        "SingleAssetSource": "maps/karaoke.vmap"
+      }
     }
   }
 }
