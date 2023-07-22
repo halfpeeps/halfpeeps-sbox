@@ -3,10 +3,10 @@
     "Allowed": true,
     "Enabled": false,
     "ProjectConfig": {
-      "Title": "truss_beams",
+      "Title": "stage_basic",
       "Type": "map",
       "Org": "local",
-      "Ident": "truss_beams",
+      "Ident": "stage_basic",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -17,13 +17,11 @@
       "CodePath": null,
       "PackageReferences": [],
       "EditorReferences": [
-        "facepunch.metal_painted_grey_a_hs#18377",
-        "facepunch.metal_rust_a_hs#18384",
-        "facepunch.metal_painted_black_a_hs#18371",
-        "halfpeeps.truss_small_rust#25757"
+        "halfpeeps.truss_medium_black#25747",
+        "halfpeeps.truss_small#25752"
       ],
       "Metadata": {
-        "SingleAssetSource": "maps/hammer_models/truss_beams.vmap"
+        "SingleAssetSource": "maps/stage_basic.vmap"
       }
     }
   }

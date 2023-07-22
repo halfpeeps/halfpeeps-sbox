@@ -3,10 +3,10 @@
     "Allowed": true,
     "Enabled": false,
     "ProjectConfig": {
-      "Title": "truss_beams",
+      "Title": "theatre",
       "Type": "map",
       "Org": "local",
-      "Ident": "truss_beams",
+      "Ident": "theatre",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -16,14 +16,9 @@
       "HasCode": false,
       "CodePath": null,
       "PackageReferences": [],
-      "EditorReferences": [
-        "facepunch.metal_painted_grey_a_hs#18377",
-        "facepunch.metal_rust_a_hs#18384",
-        "facepunch.metal_painted_black_a_hs#18371",
-        "halfpeeps.truss_small_rust#25757"
-      ],
+      "EditorReferences": [],
       "Metadata": {
-        "SingleAssetSource": "maps/hammer_models/truss_beams.vmap"
+        "SingleAssetSource": "maps/theatre.vmap"
       }
     }
   }
