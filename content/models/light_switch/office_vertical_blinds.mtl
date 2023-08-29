@@ -1,0 +1,29 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl materials_hotspots_plastic_glossy_a_hs_vmat
+map_Kd plastic_glossy_a_hs_color_tga_7a3ee2cd.generated.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+illum 2
+Ns 5.000000
+Tr 1.000000
+
+newmtl materials_textures_plastic_plastic005_2k_jpg_plastic005_2k_vmat
+map_Kd plastic005_2k_color_jpg_f6be7067.generated.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+illum 2
+Ns 5.000000
+Tr 1.000000
+
+newmtl materials_blinds_fabric_vmat
+map_Kd fabric019_2k_color_png_c44f2f47.generated.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+illum 1
+Tr 1.000000
