@@ -11,7 +11,7 @@
 				[
 					{
 						_class = "RenderMeshFile"
-						filename = "\\\\mac\\Home\\Documents\\GitHub\\halfpeeps-sbox\\content\\models\\light_switch/dmx/mesh/light_switch.dmx"
+						filename = "C:\\Users\\samue\\Documents\\s&box projects\\content\\models\\light_switch/dmx/mesh/light_switch.dmx"
 						import_translation = [ 0.0, 0.0, 0.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
