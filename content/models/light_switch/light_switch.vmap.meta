@@ -1,0 +1,29 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "light_switch",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "light_switch",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.metal_painted_navy_a_hs#18378",
+        "facepunch.plastic_glossy_a_hs#18386",
+        "facepunch.metal_painted_black_a_hs#18371"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "models/light_switch/light_switch.vmap"
+      }
+    }
+  }
+}
