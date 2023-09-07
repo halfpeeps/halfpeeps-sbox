@@ -21,7 +21,13 @@
         "way.red_brick_road_wet#18545",
         "sundayservice.brick_old_01#27348",
         "drakefruit.glass_blocks_001a#20453",
-        "aitextures.marblefloor04#17618"
+        "aitextures.marblefloor04#17618",
+        "rust.6_stones#25019",
+        "facepunch.studio_light_projector#19238",
+        "facepunch.metal_painted_black_a_hs#29194",
+        "rust.brick_wall_b_plasterblend#25359",
+        "eurorp.orange_shiny#15611",
+        "gkaf.concrete_hotspot#8690"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/tower/tower.vmap"
