@@ -49,7 +49,15 @@
         "luke.metal_bigcabinet#22916",
         "mufamoof.plugsocket#20482",
         "frogpond.fridge#12954",
-        "eurorp.kitchen#9929"
+        "eurorp.kitchen#9929",
+        "facepunch.fireextinguisher#33672",
+        "facepunch.tv#33694",
+        "svin.vending_machine#25896",
+        "facepunch.plastic_glossy_a_hs#28966",
+        "facepunch.office_chair#33620",
+        "facepunch.metal_painted_black_a_hs#29194",
+        "facepunch.industrial_strip_light#27425",
+        "creation.plastic005_2k#36463"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/office_corridor_prefab.vmap"

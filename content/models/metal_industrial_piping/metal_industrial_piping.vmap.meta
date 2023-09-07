@@ -1,0 +1,29 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "metal_industrial_piping",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "metal_industrial_piping",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.metal_brushed#18749",
+        "facepunch.metal_painted_black_a_hs#29194",
+        "facepunch.metal_painted_grey_a_hs#28954"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "models/metal_industrial_piping/metal_industrial_piping.vmap"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "glass_pipe",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "glass_pipe",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.metal_painted_black_a_hs#29194",
+        "facepunch.metal_brushed#18749",
+        "penguins.hanging_picture#12034",
+        "eurorp.door01_right#9937",
+        "facepunch.metal_painted_grey_a_hs#28954"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "models/glass_pipe/glass_pipe.vmap"
+      }
+    }
+  }
+}
