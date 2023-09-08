@@ -1,11 +1,11 @@
 {
   "publish": {
     "Allowed": true,
-    "Enabled": false,
+    "Enabled": true,
     "ProjectConfig": {
-      "Title": "tower",
+      "Title": "Tower",
       "Type": "map",
-      "Org": "local",
+      "Org": "halfpeeps",
       "Ident": "tower",
       "Tags": null,
       "Schema": 0,
@@ -28,10 +28,26 @@
         "rust.brick_wall_b_plasterblend#25359",
         "eurorp.orange_shiny#15611",
         "gkaf.concrete_hotspot#8690",
-        "facepunch.studio_light_projector#29115"
+        "facepunch.studio_light_projector#29115",
+        "facepunch.rubber_a_hs#18388"
       ],
       "Metadata": {
-        "SingleAssetSource": "maps/tower/tower.vmap"
+        "SingleAssetSource": "maps/tower/tower.vmap",
+        "GameSupport": [
+          "facepunch.sandbox"
+        ],
+        "LaunchConfigs": [
+          {
+            "Name": "Sandbox",
+            "GameIdent": "facepunch.sandbox",
+            "MapName": "halfpeeps.tower#local",
+            "MaxPlayers": 4,
+            "GameSettings": {},
+            "Addons": "",
+            "PreLaunchCommand": "",
+            "PostLaunchCommand": ""
+          }
+        ]
       }
     }
   }
