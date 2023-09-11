@@ -1,11 +1,11 @@
 {
   "publish": {
     "Allowed": true,
-    "Enabled": false,
+    "Enabled": true,
     "ProjectConfig": {
       "Title": "abandonded_concrete_building",
       "Type": "map",
-      "Org": "local",
+      "Org": "halfpeeps",
       "Ident": "abandonded_concrete_building",
       "Tags": null,
       "Schema": 0,
