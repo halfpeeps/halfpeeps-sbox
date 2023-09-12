@@ -1,11 +1,11 @@
 {
   "publish": {
     "Allowed": true,
-    "Enabled": false,
+    "Enabled": true,
     "ProjectConfig": {
       "Title": "concrete_building",
       "Type": "map",
-      "Org": "local",
+      "Org": "halfpeeps",
       "Ident": "concrete_building",
       "Tags": null,
       "Schema": 0,
