@@ -16,7 +16,9 @@
       "HasCode": false,
       "CodePath": null,
       "PackageReferences": [],
-      "EditorReferences": [],
+      "EditorReferences": [
+        "quack.devgen01#11247"
+      ],
       "Metadata": {
         "SingleAssetSource": "maps/abandonded_concrete_building.vmap"
       }
