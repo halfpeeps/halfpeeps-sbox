@@ -17,7 +17,12 @@
       "CodePath": null,
       "PackageReferences": [],
       "EditorReferences": [
-        "quack.devgen01#11247"
+        "quack.devgen01#11247",
+        "creation.plastic006_2k#36425",
+        "facepunch.metal_painted_grey_a_hs#28954",
+        "facepunch.metal_painted_black_a_hs#29194",
+        "eurorp.aluminium_01#15537",
+        "facepunch.metal_painted_a_hs#29195"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
