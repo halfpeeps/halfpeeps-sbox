@@ -25,7 +25,12 @@
         "facepunch.metal_painted_a_hs#29195",
         "facepunch.con_pol_blend_01#28792",
         "facepunch.concrete_c_hs#28941",
-        "facepunch.concrete_simple#18632"
+        "facepunch.concrete_simple#18632",
+        "facepunch.floor_tile_blend_01#28812",
+        "facepunch.pavement_tile_01#28798",
+        "ambientcg.concrete_015#34413",
+        "facepunch.floor_tile_blend_02#28795",
+        "facepunch.concrete_rough_a#30483"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
