@@ -22,7 +22,10 @@
         "facepunch.metal_painted_grey_a_hs#28954",
         "facepunch.metal_painted_black_a_hs#29194",
         "eurorp.aluminium_01#15537",
-        "facepunch.metal_painted_a_hs#29195"
+        "facepunch.metal_painted_a_hs#29195",
+        "facepunch.con_pol_blend_01#28792",
+        "facepunch.concrete_c_hs#28941",
+        "facepunch.concrete_simple#18632"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
