@@ -18,7 +18,7 @@
 	"g_nMaxSamples"		"32"
 	"g_nMinSamples"		"8"
 	"TextureHeight"		"materials/concrete_panels_raw/Concrete033_4K-PNG_Displacement.png"
-	"g_flRoughnessScaleFactor"		"1.020000"
+	"g_flRoughnessScaleFactor"		"2.000000"
 	"TextureRoughness"		"materials/concrete_panels_raw/Concrete033_4K-PNG_Roughness.png"
 	"g_nScaleTexCoordUByModelScaleAxis"		"0"
 	"g_nScaleTexCoordVByModelScaleAxis"		"0"
