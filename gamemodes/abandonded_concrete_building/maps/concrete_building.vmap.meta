@@ -30,7 +30,8 @@
         "facepunch.pavement_tile_01#28798",
         "ambientcg.concrete_015#34413",
         "facepunch.floor_tile_blend_02#28795",
-        "facepunch.concrete_rough_a#30483"
+        "facepunch.concrete_rough_a#30483",
+        "facepunch.rubber_a_hs#28967"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
