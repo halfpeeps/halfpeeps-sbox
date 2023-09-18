@@ -34,7 +34,11 @@
         "facepunch.rubber_a_hs#28967",
         "facepunch.old_iron_a_hs#28963",
         "facepunch.wall_brick_old#18728",
-        "facepunch.concrete_a_wetmoss_hs#28969"
+        "facepunch.concrete_a_wetmoss_hs#28969",
+        "brax.fence_32#32336",
+        "mapperskai.fence_concret_merge_#30301",
+        "brax.fence_64#32337",
+        "brax.fence_128#32335"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
