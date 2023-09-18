@@ -32,7 +32,9 @@
         "facepunch.floor_tile_blend_02#28795",
         "facepunch.concrete_rough_a#30483",
         "facepunch.rubber_a_hs#28967",
-        "facepunch.old_iron_a_hs#28963"
+        "facepunch.old_iron_a_hs#28963",
+        "facepunch.wall_brick_old#18728",
+        "facepunch.concrete_a_wetmoss_hs#28969"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
