@@ -109,7 +109,23 @@
         "facepunch.building01_stone_crn_16#28981",
         "baik.crowbar#19517",
         "fish.crowbar#23086",
-        "facepunch.dirtpile_03#37647"
+        "facepunch.dirtpile_03#37647",
+        "simonkvien.cargo01_open#11400",
+        "facepunch.aircon_unit_large_64x64_a#33649",
+        "facepunch.fire_exit_light#33598",
+        "tesssssssssst.untitled_17871165132#34659",
+        "tfassets.box_cluster02#22717",
+        "reizer.wood_box_01a#20072",
+        "metroredux.box_h#26868",
+        "gkaf.door_1#26044",
+        "eurorp.door01_right#9937",
+        "pouragegaming.door_reinforced_window#30461",
+        "caro.cigarette#29425",
+        "facepunch.fence_panel_large#28813",
+        "tfassets.concrete_pipe002#22720",
+        "facepunch.concrete_barrier#33663",
+        "baik.concreteblock#23860",
+        "rust.concrete_debris_c#30531"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
