@@ -93,7 +93,8 @@
         "facepunch.aircon_mount#33644",
         "facepunch.aircon_unit_large_64x64_b#33651",
         "polyhaven.modular_airduct_01_96#20340",
-        "facepunch.street_cabinet_large#33680"
+        "facepunch.street_cabinet_large#33680",
+        "rust.shipping_container_900_a#23717"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
