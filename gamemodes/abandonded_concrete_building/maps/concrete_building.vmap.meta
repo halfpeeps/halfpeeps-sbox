@@ -94,7 +94,22 @@
         "facepunch.aircon_unit_large_64x64_b#33651",
         "polyhaven.modular_airduct_01_96#20340",
         "facepunch.street_cabinet_large#33680",
-        "rust.shipping_container_900_a#23717"
+        "rust.shipping_container_900_a#23717",
+        "polyhaven.school_chair_01#27289",
+        "modelworkstuff.traffic_cone_01#12854",
+        "halfpeeps.glass_pipe#37941",
+        "tfassets.pipes_wall001#22808",
+        "japancitymodels.pipe_02#32009",
+        "facepunch.dirtpile_02#37646",
+        "facepunch.dirtpile_04#37648",
+        "facepunch.dirtpile_01#37645",
+        "facepunch.saw_blade_a#29080",
+        "tfassets.drain_pipe001#21011",
+        "saandy.shower_drain#19943",
+        "facepunch.building01_stone_crn_16#28981",
+        "baik.crowbar#19517",
+        "fish.crowbar#23086",
+        "facepunch.dirtpile_03#37647"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
