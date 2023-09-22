@@ -125,7 +125,27 @@
         "tfassets.concrete_pipe002#22720",
         "facepunch.concrete_barrier#33663",
         "baik.concreteblock#23860",
-        "rust.concrete_debris_c#30531"
+        "rust.concrete_debris_c#30531",
+        "rust.concrete_debris_a#25163",
+        "baik.c_pipe_curve#19520",
+        "baik.concretepipe#19521",
+        "facepunch.dirtpile_05#37649",
+        "facepunch.trash_pile_c_03#37373",
+        "facepunch.pallet#33622",
+        "bimbasic.portable_toilet#27181",
+        "baik.europallet#19449",
+        "facepunch.packing_tape#33719",
+        "svin.tile_roof#36222",
+        "tesssssssssst.untitled_1457748415#33053",
+        "additionproject.plasticchair_01#12788",
+        "baik.cinderblock#19522",
+        "mapperskai.item_drink_beer_lod0_merge_#28025",
+        "caro.foil#29233",
+        "niclude.barrel_01_open#30492",
+        "fdd.radio_retro#35331",
+        "baik.cabledrum#19448",
+        "tesssssssssst.untitled_84185151#32602",
+        "creation.woodenpanel02#16806"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
