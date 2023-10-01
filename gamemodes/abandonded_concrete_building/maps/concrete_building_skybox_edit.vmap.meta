@@ -303,7 +303,15 @@
         "sugmatextures.stripedconcretewall#34990",
         "rust.brick_wall_b_plasterblend#25359",
         "gkaf.cinderblock_wall#24641",
-        "way.concrete_barrier#23737"
+        "way.concrete_barrier#23737",
+        "niclude.bench_6#30658",
+        "kvien.concretefloor04_pixel#37124",
+        "rust.concrete_debris_c#30531",
+        "pouragegaming.gravel033_2k#29282",
+        "facepunch.wall_brick_older_bottom_moss#18723",
+        "rust.wall_conc_300x900#25399",
+        "mdlresrc.shopping_cart001#4868",
+        "facepunch.folding_construction_sign#19200"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building_skybox_edit.vmap"
