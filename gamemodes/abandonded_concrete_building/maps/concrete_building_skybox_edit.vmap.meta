@@ -271,7 +271,17 @@
         "facepunch.metal_hs_01a#9578",
         "sundayservice.metal_corrugated_01_blend#31180",
         "ambientcg.concrete_013#34407",
-        "bea.tree_1a#11287"
+        "bea.tree_1a#11287",
+        "titanovsky.ufrts_mountain_group1#41223",
+        "eurorp.access_02#15758",
+        "facepunch.metal_fence_panel#33557",
+        "facepunch.beech_hedge_96x128#29094",
+        "rust.rubble_pile_3x3#25283",
+        "facepunch.fence_panel_gate#29175",
+        "rust.shipping_container_300_a#25289",
+        "fdd.frame_metal#35319",
+        "facepunch.fence_panel_large_bent#29177",
+        "eurorp.cement_bag#9915"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building_skybox_edit.vmap"
