@@ -219,7 +219,11 @@
         "tfassets.building001#22718",
         "sundayservice.facade002#37706",
         "tfassets.tree001_skybox#22743",
-        "titanovsky.ufrts_resource_pinetree_group#41234"
+        "titanovsky.ufrts_resource_pinetree_group#41234",
+        "eurorp.antenna_04#15768",
+        "japancitymodels.electricpole_1#31993",
+        "rust.american_beech_a#25035",
+        "facepunch.tree_oak_big_a#38050"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
