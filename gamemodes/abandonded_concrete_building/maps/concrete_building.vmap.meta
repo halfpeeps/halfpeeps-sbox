@@ -372,7 +372,12 @@
         "facepunch.roof_trim_b_scaled#19057",
         "facepunch.floor_herringbone_brick#18661",
         "facepunch.floor_grass_a#18648",
-        "facepunch.wall_brick_older_bottom_dirt#18724"
+        "facepunch.wall_brick_older_bottom_dirt#18724",
+        "facepunch.tarpaulin_01#28796",
+        "caro.rope#28550",
+        "baik.gb_plank#16465",
+        "fdd.plank#35323",
+        "roomfield.water#20387"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
