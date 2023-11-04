@@ -27,6 +27,43 @@
 					},
 				]
 			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_tags = "solid"
+						origin = [ 23.208088, -0.091492, -3.193226 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 88.531471, 144.17804, 2.171109 ]
+					},
+				]
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "hitbox"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = ""
+								surface_property = ""
+								translation_only = false
+								tags = ""
+								hitbox_mins = [ -21.005974, -72.109123, -3.888193 ]
+								hitbox_maxs = [ 67.13031, 72.240074, -2.262978 ]
+							},
+						]
+					},
+				]
+			},
 		]
 		model_archetype = ""
 		primary_associated_entity = ""
