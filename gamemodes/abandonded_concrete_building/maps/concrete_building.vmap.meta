@@ -377,7 +377,10 @@
         "caro.rope#28550",
         "baik.gb_plank#16465",
         "fdd.plank#35323",
-        "roomfield.water#20387"
+        "roomfield.water#20387",
+        "baik.oildrum#41729",
+        "facepunch.telephone_box#43069",
+        "facepunch.telephone_box_door#43070"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/concrete_building.vmap"
